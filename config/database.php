@@ -40,7 +40,7 @@ return [
             'foreign_key_constraints' => env('DB_FOREIGN_KEYS', true),
         ],
 
-        /*Sql lite para prueba - falta implementar*/
+        /*Sql lite para prueba - configuracion SqlLite prueba */
 
         'mysql' => [
             'driver' => 'mysql',
